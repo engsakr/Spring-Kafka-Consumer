@@ -1,4 +1,4 @@
-package com.dailycodebuffer.kafka;
+package com.omegacrawling.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
